@@ -54,7 +54,7 @@ url_slides:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Primal gap convergence comparison: Minimization of quadratic over Birkhoff polytope. See paper for details."
+  caption: "Primal gap convergence comparison: Sparse coding over Birkhoff polytope. See paper for details."
   focal_point: "Center"
   preview_only: false
 
