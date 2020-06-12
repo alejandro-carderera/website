@@ -36,8 +36,18 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/pdf/2002.08907.pdf"
-url_code: "https://github.com/alejandro-carderera/SOCGS"
+links:
+  - icon_pack: ai
+    icon: arxiv
+    name: PDF
+    url: 'https://arxiv.org/pdf/2002.08907.pdf'
+  - icon_pack: fab
+    icon: github
+    name: Code
+    url: 'https://github.com/alejandro-carderera/SOCGS'
+
+url_pdf: ""
+url_code: ""
 url_slides:
 
 # Featured image
