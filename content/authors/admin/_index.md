@@ -76,4 +76,4 @@ user_groups:
 
 I am a second year Ph.D. student in Machine Learning at the Georgia Institute of Technology, working with [Prof. Sebastian Pokutta](http://www.pokutta.com/). My work is currently aimed at designing novel convex optimization algorithms with solid theoretical convergence guarantees and good numerical performance.
 
-Prior to joining the Ph.D. programme I worked at HP as an R&D Systems Engineer for two years. I obtained a bachelor of science in Industrial Engineering from the Universidad Politécnica de Madrid and a Master of Science in Applied Physics from Cornell University.
+Prior to joining the Ph.D. program I worked at HP as an R&D Systems Engineer for two years. I obtained a bachelor of science in Industrial Engineering from the Universidad Politécnica de Madrid and a Master of Science in Applied Physics from Cornell University.

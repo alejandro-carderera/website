@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Breaking the Curse of Dimensionality (Locally) to Accelerate Conditional Gradients"
-event: "OPT2019: 11th Workshop on Optimization for Machine Learning"
-event_url: "https://opt-ml.org/"
-location: "OPT2019: 11th Workshop on Optimization for Machine Learning"
+title: "Locally Accelerated Conditional Gradients"
+event: "Fields CQAM Focus Program on Data Science and Optimization"
+event_url: "http://www.fields.utoronto.ca/activities/19-20/c-dso"
+location: "Fields CQAM Focus Program on Data Science and Optimization"
 address:
   street:
-  city: "Vancouver"
+  city: "Toronto"
   region:
   postcode:
   country: "Canada"
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-12-14T14:30:00-05:00
-date_end: 2019-12-14T14:45:00-05:00
+date: 2019-11-20T13:30:00-05:00
+date_end: 2019-11-20T14:00:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-11-04T16:00:37-05:00
+publishDate: 2019-11-04T15:53:25-05:00
 
 authors: []
 tags: []
@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "MLOptPresentation.pdf"
+url_slides: "FieldsInstitute2019.pdf"
 
 url_code:
-url_pdf: "https://opt-ml.org/papers/2019/paper_26.pdf"
+url_pdf:
 url_video:
 
 # Markdown Slides (optional).
