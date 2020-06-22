@@ -45,6 +45,10 @@ links:
     icon: github
     name: Code
     url: 'https://github.com/alejandro-carderera/SOCGS'
+  - icon_pack: fas
+    icon: chalkboard-teacher
+    name: Blog Post
+    url: 'http://www.pokutta.com/blog/research/2020/06/20/socgs.html'
 
 url_pdf: ""
 url_code: ""
