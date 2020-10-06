@@ -45,9 +45,14 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-# Optional filename of your slides within your talk's folder or a URL.
-url_slides: "http://www.cas.mcmaster.ca/~deza/slidesRIKEN2019/carderera.pdf"
+links:
+  - icon_pack: fas
+    icon: file
+    name: Slides
+    url: "http://www.cas.mcmaster.ca/~deza/slidesRIKEN2019/carderera.pdf"
 
+# Optional filename of your slides within your talk's folder or a URL.
+url_slides:
 url_code:
 url_pdf:
 url_video:

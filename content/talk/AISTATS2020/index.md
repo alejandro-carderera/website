@@ -1,27 +1,27 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Breaking the Curse of Dimensionality (Locally) to Accelerate Conditional Gradients"
-event: "OPT2019: 11th Workshop on Optimization for Machine Learning"
-event_url: "https://opt-ml.org/"
-location: "OPT2019: 11th Workshop on Optimization for Machine Learning"
+title: "Locally Accelerated Conditional Gradients"
+event: "AISTATS2020 (Online)"
+event_url: "https://slideslive.com/38930107/locally-accelerated-conditional-gradients?ref=account-folder-52123-folders"
+location: "AISTATS2020 (Online)"
 address:
   street:
-  city: "Vancouver"
+  city: 
   region:
   postcode:
-  country: "Canada"
+  country: 
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-12-14T14:30:00-05:00
-date_end: 2019-12-14T14:45:00-05:00
+date: 2020-08-26T13:00:00-05:00
+date_end: 2020-08-26T13:20:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-11-04T16:00:37-05:00
+publishDate: 2020-08-26T15:53:25-05:00
 
 authors: []
 tags: []
@@ -45,21 +45,16 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-
 links:
   - icon_pack: fas
     icon: file
-    name: PDF
-    url: "https://opt-ml.org/papers/2019/paper_26.pdf"
-  - icon_pack: fas
-    icon: file
     name: Slides
-    url: "MLOptPresentation.pdf"
+    url: 'AISTATSPresentation.pdf'
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: 
 url_code:
-url_pdf: 
+url_pdf:
 url_video:
 
 # Markdown Slides (optional).

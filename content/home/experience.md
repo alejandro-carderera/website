@@ -19,20 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Quantitative Analyst - Summer Associate"
-  company = "J.P. Morgan"
-  company_url = ""
-  location = "New York, USA."
-  date_start = "2020-07-06"
-  date_end = "2020-08-07"
-
-[[experience]]
   title = "Graduate Research Assistant"
   company = "Georgia Institute of Technology"
   company_url = ""
   location = "Atlanta, USA."
   date_start = "2019-05-01"
   date_end = ""
+  
+[[experience]]
+  title = "Quantitative Analyst - Summer Associate"
+  company = "J.P. Morgan"
+  company_url = ""
+  location = "New York, USA."
+  date_start = "2020-07-06"
+  date_end = "2020-08-07"
 
 [[experience]]
   title = "Graduate Teaching Assistant"

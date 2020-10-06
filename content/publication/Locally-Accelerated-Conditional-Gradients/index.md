@@ -37,6 +37,10 @@ featured: false
 #   icon: twitter
 
 links:
+  - icon_pack: fas
+    icon: video
+    name: Video
+    url: 'https://slideslive.com/38930107/locally-accelerated-conditional-gradients?ref=account-folder-52123-folders'
   - icon_pack: ai
     icon: arxiv
     name: PDF
@@ -49,10 +53,10 @@ links:
     icon: chalkboard-teacher
     name: Blog Post
     url: 'http://www.pokutta.com/blog/research/2019/07/04/LaCG-abstract.html'
-  - icon_pack: 
-    icon:
+  - icon_pack: fas
+    icon: file
     name: Slides
-    url: 'MLOptPresentation.pdf'
+    url: 'AISTATSPresentation.pdf'
 
 url_pdf: 
 url_code: 
