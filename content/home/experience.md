@@ -23,25 +23,24 @@ date_format = "Jan 2006"
   company = "Georgia Institute of Technology"
   company_url = ""
   location = "Atlanta, USA."
-  date_start = "2019-05-01"
-  date_end = ""
+  date_start = "2018-08-01"
+  date_end = "2021-12-31"
   
 [[experience]]
-  title = "Quantitative Analyst - Summer Associate"
+  title = "Quantitative Researcher - Summer Associate"
+  company = "J.P. Morgan"
+  company_url = ""
+  location = "New York, USA."
+  date_start = "2021-06-07"
+  date_end = "2021-08-20"
+  
+[[experience]]
+  title = "Quantitative Researcher - Summer Associate"
   company = "J.P. Morgan"
   company_url = ""
   location = "New York, USA."
   date_start = "2020-07-06"
   date_end = "2020-08-07"
-
-[[experience]]
-  title = "Graduate Teaching Assistant"
-  company = "Georgia Institute of Technology"
-  company_url = ""
-  location = "Atlanta, USA."
-  date_start = "2019-05-01"
-  date_end = "2018-08-01"
-
 
 [[experience]]
   title = "R&D Systems Engineer"

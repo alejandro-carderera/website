@@ -24,12 +24,13 @@ interests:
 - Convex Optimization
 - Theoretical Machine Learning
 - Causal Inference
+- Statistical Estimation
 
 education:
   courses:
   - course: Ph.D. in Machine Learning
     institution: Georgia Institute of Technology
-    year: 2022 (Expected)
+    year: 2021 (Expected)
   - course: MS in Applied Physics
     institution: Cornell University
     year: 2016
@@ -52,17 +53,17 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ACarderera
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=HvCPD1IAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/alejandro-carderera
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-I am a third year Ph.D. student in Machine Learning at the Georgia Institute of Technology, working with [Prof. Sebastian Pokutta](http://www.pokutta.com/). My work is currently aimed at designing novel convex optimization algorithms with solid theoretical convergence guarantees and good numerical performance.
+I am a fourth year Ph.D. student in Machine Learning at the Georgia Institute of Technology, working with [Prof. Sebastian Pokutta](http://www.pokutta.com/). My work is currently aimed at designing novel convex optimization algorithms with solid theoretical convergence guarantees and good numerical performance.
 
 Prior to joining the Ph.D. program I worked at HP as an R&D Systems Engineer for two years. I obtained a bachelor of science in Industrial Engineering from the Universidad Politécnica de Madrid and a Master of Science in Applied Physics from Cornell University.
