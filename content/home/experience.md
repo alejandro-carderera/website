@@ -47,15 +47,15 @@ date_format = "Jan 2006"
   company = "HP"
   company_url = ""
   location = "Barcelona, Spain"
-  date_start = "2018-07-01"
-  date_end = "2016-08-01"
+  date_start = "2016-08-01"
+  date_end = "2018-07-01"
 
 [[experience]]
   title = "Graduate Research Assistant"
   company = "Cornell University"
   company_url = ""
   location = "Ithaca, USA."
-  date_start = "2016-07-01"
-  date_end = "2015-07-01"
+  date_start = "2015-07-01"
+  date_end = "2016-07-01"
 
 +++
