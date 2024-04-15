@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student in Machine Learning
+role: Quantitative Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Georgia Institute of Technology
+- name: Quantfury
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Machine Learning
     institution: Georgia Institute of Technology
-    year: 2021 (Expected)
+    year: 2021
   - course: MS in Applied Physics
     institution: Cornell University
     year: 2016
@@ -50,9 +50,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alejandrocarderera/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ACarderera
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=HvCPD1IAAAAJ&hl=en
@@ -75,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth year Ph.D. student in Machine Learning at the Georgia Institute of Technology, working with [Prof. Sebastian Pokutta](http://www.pokutta.com/). My work is currently aimed at designing novel convex optimization algorithms with solid theoretical convergence guarantees and good numerical performance.
+I am a Quantitative Researcher at Quantfury, working in Machine Learning techniques for algorithmic trading. I obtained my Ph.D. in Machine Learning at the Georgia Institute of Technology, working with [Prof. Sebastian Pokutta](http://www.pokutta.com/), on designing novel convex optimization algorithms with solid theoretical convergence guarantees and good numerical performance.
 
 Prior to joining the Ph.D. program I worked at HP as an R&D Systems Engineer for two years. I obtained a bachelor of science in Industrial Engineering from the Universidad Politécnica de Madrid and a Master of Science in Applied Physics from Cornell University.

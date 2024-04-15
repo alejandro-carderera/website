@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -17,6 +17,14 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Quantitative Researcher - ML for algorithmic trading"
+  company = "Quantfury"
+  company_url = ""
+  location = "Atlanta, USA."
+  date_start = "2022-01-17"
+  date_end = ""
 
 [[experience]]
   title = "Graduate Research Assistant"

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "FrankWolfe.jl - Under submission to the INFORMS Journal of Computing"
+title: "FrankWolfe.jl - INFORMS Journal of Computing"
 authors: [Mathieu Besançon, Alejandro Carderera, Sebastian Pokutta]
 date: 2021-04-14T13:46:30-05:00
 doi: ""
@@ -16,8 +16,8 @@ publishDate: 2019-11-04T13:46:30-05:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under submission to the INFORMS Journal of Computing"
-publication_short: "Under submission to the INFORMS Journal of Computing"
+publication: "INFORMS Journal of Computing"
+publication_short: "INFORMS Journal of Computing"
 
 abstract: "We present FrankWolfe.jl, an open-source implementation of several popular Frank-Wolfe and Conditional Gradients variants for first-order constrained optimization. The package is designed with flexibility and high-performance in mind, allowing for easy extension and relying on few assumptions regarding the user-provided functions. It supports Julia's unique multiple dispatch feature, and interfaces smoothly with generic linear optimization formulations using MathOptInterface.jl."
 

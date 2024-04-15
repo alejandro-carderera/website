@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Second-order Conditional Gradient Sliding - Preprint"
+title: "Second-order Conditional Gradient Sliding - Fields Institute Communication Series on Data Science and Optimization"
 authors: [Alejandro Carderera, Sebastian Pokutta]
 date: 2020-02-20T13:46:30-05:00
 doi: ""

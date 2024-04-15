@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Simple steps are all you need: Frank-Wolfe and generalized self-concordant functions - To appear in NeurIPS'21"
+title: "Simple steps are all you need: Frank-Wolfe and generalized self-concordant functions - NeurIPS 2021"
 authors: [Alejandro Carderera, Mathieu Besançon, Sebastian Pokutta]
 date: 2021-05-28T13:46:30-05:00
 doi: ""
@@ -16,8 +16,8 @@ publishDate: 2019-11-04T13:46:30-05:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To appear in NeurIPS'21"
-publication_short: "To appear in NeurIPS'21"
+publication: "NeurIPS 2021"
+publication_short: "NeurIPS 2021"
 
 abstract: "Generalized self-concordance is a key property present in the objective function of many important learning problems. We establish the convergence rate of a simple Frank-Wolfe variant that uses the open-loop step size strategy γt=2/(t+2), obtaining a O(1/t) convergence rate for this class of functions in terms of primal gap and Frank-Wolfe gap, where t is the iteration count. This avoids the use of second-order information or the need to estimate local smoothness parameters of previous work. We also show improved convergence rates for various common cases, e.g., when the feasible region under consideration is uniformly convex or polyhedral."
 
